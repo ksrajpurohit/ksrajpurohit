@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kuldeep Singh</h1>
 <h3 align="center">I am Computer Science Enthusiast who is Curious About Every Thing in Tech!!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krrajpurohit&label=Profile%20views&color=0e75b6&style=flat" alt="krrajpurohit" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ksrajpurohit&label=Profile%20views&color=0e75b6&style=flat" alt="ksrajpurohit" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krrajpurohit" alt="krrajpurohit" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ksrajpurohit" alt="ksrajpurohit" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter, MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/krrajpurohit](https://github.com/krrajpurohit)
+- 👨‍💻 All of my projects are available at [https://github.com/ksrajpurohit](https://github.com/ksrajpurohit)
 
 - 📝 I regularly write articles check them Here [https://medium.com/@kuldeep.rajpurohit](https://medium.com/@kuldeep.rajpurohit)
 
@@ -32,8 +32,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ksrajpurohit"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ksrajpurohit" /></a></p><br><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krrajpurohit&show_icons=true&locale=en&layout=compact" alt="krrajpurohit" /></p><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ksrajpurohit&show_icons=true&locale=en&layout=compact" alt="ksrajpurohit" /></p><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krrajpurohit&show_icons=true&locale=en" alt="krrajpurohit" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ksrajpurohit&show_icons=true&locale=en" alt="ksrajpurohit" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krrajpurohit&" alt="krrajpurohit" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ksrajpurohit&" alt="ksrajpurohit" /></p>
